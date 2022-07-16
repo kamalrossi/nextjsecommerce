@@ -6,7 +6,7 @@ const PageIntro = () => {
     <section className="page-intro">  
       <Swiper navigation effect="fade" className="swiper-wrapper">
         <SwiperSlide>
-          <div className="page-intro__slide" style={{ backgroundImage: "url('/images/vegetable.jpg')" }}>
+          <div className="page-intro__slide" style={{ backgroundImage: "url('/images/vegetable.png')" }}>
             <div className="container">
               <div className="page-intro__slide__content">
                 <h2>Fresh and Green Vegetables</h2>
@@ -16,7 +16,7 @@ const PageIntro = () => {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="page-intro__slide" style={{ backgroundImage: "url('/images/fruit.jpg')" }}>
+          <div className="page-intro__slide" style={{ backgroundImage: "url('/images/fruit.png')" }}>
             <div className="container">
               <div className="page-intro__slide__content">
                 <h2>We provide healthy food from certified authority</h2>
