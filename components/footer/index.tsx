@@ -29,7 +29,7 @@ const Footer = () => {
             </ul>
             <ul>
               <li>About us</li>
-              <li><a href="#">info@greenmart.xyz</a></li>
+              <li><a href="#">info@goodnmart.xyz</a></li>
               <li><a href="#">Hotline: +42 33434 343234 33</a></li>
             </ul>
           </div>
