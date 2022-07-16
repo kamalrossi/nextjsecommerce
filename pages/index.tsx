@@ -11,21 +11,21 @@ const IndexPage = () => {
 
       <section className="featured">
         <div className="container">
-          <article style={{backgroundImage: 'url(/images/featured-1.jpg)'}} className="featured-item featured-item-large">
+          <article style={{backgroundImage: 'url(/images/veg.png)'}} className="featured-item featured-item-large">
             <div className="featured-item__content">
               <h3>Seasonal and leafy vegetable at 10% Sale</h3>
               <a href="#" className="btn btn--rounded">View All</a>
             </div>
           </article>
           
-          <article style={{backgroundImage: 'url(/images/featured-2.jpg)'}} className="featured-item featured-item-small-first">
+          <article style={{backgroundImage: 'url(/images/fru1.png)'}} className="featured-item featured-item-small-first">
             <div className="featured-item__content">
               <h3>Imported fruits on 20% Sales</h3>
               <a href="#" className="btn btn--rounded">View All</a>
             </div>
           </article>
           
-          <article style={{backgroundImage: 'url(/images/featured-3.jpg)'}} className="featured-item featured-item-small">
+          <article style={{backgroundImage: 'url(/images/fru2.png)'}} className="featured-item featured-item-small">
             <div className="featured-item__content">
               <h3>Local fruits on 10% Sale</h3>
               <a href="#" className="btn btn--rounded">View All</a>
