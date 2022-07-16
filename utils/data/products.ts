@@ -1,16 +1,16 @@
 export const products = [
   {
     id: '1',
-    name: 'T-Shirt Summer Vibes',
-    price: 119.99,
-    discount: 30,
-    quantityAvailable: 2,
-    category: 'T-shirt',
-    currentPrice: 89.99,
+    name: 'Mango',
+    price: 5,
+    discount: 10,
+    quantityAvailable: 100,
+    category: 'Fruit',
+    currentPrice: 4,
     sizes: ['xl', 'l'], 
     colors: ['#000', '6F3E18', '#D4BE8D', '#FFF'],
     images: [
-      '/images/products/product-1.jpg',
+      '/images/products/mango.jpg',
     ],
     punctuation: {
       countOpinions: 81,
@@ -61,15 +61,15 @@ export const products = [
   },
   {
     id: '2',
-    name: 'T-Shirt Summer Vibes',
-    price: 119.99,
+    name: 'Onion',
+    price: 10,
     quantityAvailable: 2,
-    category: 'T-shirt',
-    currentPrice: 89.99,
+    category: 'Vegetable',
+    currentPrice: 8,
     sizes: ['xl', 'l'], 
     colors: ['#000', '6F3E18', '#D4BE8D', '#FFF'],
     images: [
-      '/images/products/product-2.jpg',
+      '/images/products/onion.jpg',
     ],
     punctuation: {
       countOpinions: 81,
@@ -99,7 +99,7 @@ export const products = [
     },
     reviews: [
       {
-        name: 'John Doe',
+        name: 'Veronica',
         avatar: '/images/featured-1.jpg',
         description: '<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s</p>',
         punctuation: 2
